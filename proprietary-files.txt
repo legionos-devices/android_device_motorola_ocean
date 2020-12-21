@@ -25,6 +25,9 @@ vendor/etc/acdbdata/na/Hdmi_cal.acdb
 vendor/etc/acdbdata/na/Headset_cal.acdb
 vendor/etc/acdbdata/na/Speaker_cal.acdb
 
+# APN
+product/etc/apns-conf.xml
+
 # Camera
 vendor/lib/libmot_gpu_mapper.so
 
