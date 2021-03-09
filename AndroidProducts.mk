@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/styx_ocean.mk
+    $(LOCAL_DIR)/legion_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    styx_ocean-eng \
-    styx_ocean-user \
-    styx_ocean-userdebug
+    legion_ocean-eng \
+    legion_ocean-user \
+    legion_ocean-userdebug
